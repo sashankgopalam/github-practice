@@ -1,2 +1,3 @@
 Just for fun man
 This line is added in git
+This is 3rd line of file.
